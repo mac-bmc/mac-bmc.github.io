@@ -1,0 +1,72 @@
+[
+  {
+    "product_id": 100,
+    "product_title": "Asus Tuf G15",
+    "product_price": 50000,
+    "product_category": "Laptop",
+    "product_image": " "
+  },
+  {
+    "product_id": 101,
+    "product_title": "Asus Tuf A15",
+    "product_price": 85000,
+    "product_category": "Laptop",
+    "product_image": " "
+  },
+  {
+    "product_id": 102,
+    "product_title": "Dell Thinkpad",
+    "product_price": 35000,
+    "product_category": "Laptop",
+    "product_image": " "
+  },
+  {
+    "product_id": 103,
+    "product_title": "Asus Rog G16",
+    "product_price": 120000,
+    "product_category": "Laptop",
+    "product_image": " "
+  },
+  {
+    "product_id": 104,
+    "product_title": "Samsung S6 lite",
+    "product_price": 17000,
+    "product_category": "Tablet",
+    "product_image": " "
+  },
+  {
+    "product_id": 105,
+    "product_title": "Samsung S9FE",
+    "product_price": 46000,
+    "product_category": "Tablet",
+    "product_image": " "
+  },
+  {
+    "product_id": 106,
+    "product_title": "Samsung S23 Ultra",
+    "product_price": 125000,
+    "product_category": "Phone",
+    "product_image": " "
+  },
+  {
+    "product_id": 107,
+    "product_title": "Nothing Phone(2)",
+    "product_price": 45000,
+    "product_category": "Phone",
+    "product_image": " "
+  },
+  {
+    "product_id": 108,
+    "product_title": "Oneplus 11",
+    "product_price": 45000,
+    "product_category": "Phone",
+    "product_image": " "
+  },
+  {
+    "product_id": 109,
+    "product_title": "Apple iPhone 15 pro",
+    "product_price": 135000,
+    "product_category": "Phone",
+    "product_image": " "
+  }
+]
