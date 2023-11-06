@@ -1,7 +1,7 @@
 [
   {
     "product_id": 100,
-    "product_title": "Asus Tuf G15",
+    "product_title": "Asus Tuf F15",
     "product_price": 50000,
     "product_category": "Laptop",
     "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe0O0260hzKyKursZUTtZAxECP0gSVJ2JXwQ&usqp=CAU"
@@ -11,11 +11,11 @@
     "product_title": "Asus Tuf A15",
     "product_price": 85000,
     "product_category": "Laptop",
-    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe0O0260hzKyKursZUTtZAxECP0gSVJ2JXwQ&usqp=CAU"
+    "product_image": "https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/a15-1.jpeg?alt=media&token=40772d29-a837-43c2-9ab3-6d3183cd5663&_gl=1*vaanhf*_ga*ODcxMTQ1NjA5LjE2OTg3NDEyMDY.*_ga_CW55HF8NVT*MTY5OTI0MzQ1Mi4xNi4xLjE2OTkyNDM2NDcuOS4wLjA."
   },
   {
     "product_id": 102,
-    "product_title": "Dell Thinkpad",
+    "product_title": "Lenovo Thinkpad",
     "product_price": 35000,
     "product_category": "Laptop",
     "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe0O0260hzKyKursZUTtZAxECP0gSVJ2JXwQ&usqp=CAU"
