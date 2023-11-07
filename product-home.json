@@ -60,13 +60,13 @@
     "product_title": "Oneplus 11",
     "product_price": 45000,
     "product_category": "Phone",
-    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe0O0260hzKyKursZUTtZAxECP0gSVJ2JXwQ&usqp=CAU"
+    "product_image": "https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/11-1.jpg?alt=media&token=1830b9b3-90bb-4dac-86ce-9b95ad44eb03&_gl=1*s0zamk*_ga*ODcxMTQ1NjA5LjE2OTg3NDEyMDY.*_ga_CW55HF8NVT*MTY5OTMzODI1Ny4yMC4xLjE2OTkzMzgzMzQuNTQuMC4w"
   },
   {
     "product_id": 109,
     "product_title": "Apple iPhone 15 pro",
     "product_price": 135000,
     "product_category": "Phone",
-    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe0O0260hzKyKursZUTtZAxECP0gSVJ2JXwQ&usqp=CAU"
+    "product_image": "https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/i-1.jpg?alt=media&token=f3c3924d-3b12-4e2c-9331-ff5d49019ded&_gl=1*1iexu2h*_ga*ODcxMTQ1NjA5LjE2OTg3NDEyMDY.*_ga_CW55HF8NVT*MTY5OTMzODI1Ny4yMC4xLjE2OTkzMzgzNzcuMTEuMC4w"
   }
 ]
