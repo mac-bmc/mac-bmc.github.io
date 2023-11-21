@@ -1,0 +1,82 @@
+[
+    {
+        "product_id": 100,
+        "product_title_en": "Asus Tuf G15",
+        "product_price": 50000,
+        "product_category": "Laptop",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/f15-1.jpeg?alt=media&token=835a1120-b1c7-4a80-814e-5e1315ce83a8&_gl=1*3maymy*_ga*ODcxMTQ1NjA5LjE2OTg3NDEyMDY.*_ga_CW55HF8NVT*MTY5OTI0MzQ1Mi4xNi4xLjE2OTkyNDQwMjcuNjAuMC4w",
+        "product_title_ml": "അസൂസ് ടഫ് ജി 15"
+    },
+    {
+        "product_id": 101,
+        "product_title_en": "Asus Tuf A15",
+        "product_price": 85000,
+        "product_category": "Laptop",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/a15-1.jpeg?alt=media&token=40772d29-a837-43c2-9ab3-6d3183cd5663&_gl=1*vaanhf*_ga*ODcxMTQ1NjA5LjE2OTg3NDEyMDY.*_ga_CW55HF8NVT*MTY5OTI0MzQ1Mi4xNi4xLjE2OTkyNDM2NDcuOS4wLjA.",
+        "product_title_ml": "അസൂസ് ടഫ് എ  15"
+    },
+    {
+        "product_id": 102,
+        "product_title_en": "Dell Thinkpad",
+        "product_price": 35000,
+        "product_category": "Laptop",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/think-1.jpg?alt=media&token=7d57bb5a-566c-420c-8d8d-c730f4a63eef&_gl=1*16uprbw*_ga*ODcxMTQ1NjA5LjE2OTg3NDEyMDY.*_ga_CW55HF8NVT*MTY5OTI0MzQ1Mi4xNi4xLjE2OTkyNDQwNjUuMjIuMC4w",
+        "product_title_ml": "ഡെൽ തിങ്ക്പാഡ്"
+    },
+    {
+        "product_id": 103,
+        "product_title_en": "Asus Rog G16",
+        "product_price": 120000,
+        "product_category": "Laptop",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/rog-1.jpeg?alt=media&token=a15145d9-1e95-4550-9409-80b9821998c0&_gl=1*a4td6p*_ga*ODcxMTQ1NjA5LjE2OTg3NDEyMDY.*_ga_CW55HF8NVT*MTY5OTI0MzQ1Mi4xNi4xLjE2OTkyNDQwOTIuNjAuMC4w",
+        "product_title_ml": "അസൂസ് റോഗ് ജി 16"
+    },
+    {
+        "product_id": 104,
+        "product_title_en": "Samsung S6 lite",
+        "product_price": 17000,
+        "product_category": "Tablet",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/s6lite-1.jpeg?alt=media&token=ad7cfc5d-3e07-44f6-b4c2-7b5e818a9347&_gl=1*1h3kba4*_ga*ODcxMTQ1NjA5LjE2OTg3NDEyMDY.*_ga_CW55HF8NVT*MTY5OTI0MzQ1Mi4xNi4xLjE2OTkyNDQxMjcuMjUuMC4w",
+        "product_title_ml": "സാംസങ് എസ്6 ലൈറ്റ്"
+    },
+    {
+        "product_id": 105,
+        "product_title_en": "Samsung S9FE",
+        "product_price": 46000,
+        "product_category": "Tablet",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/s9fe-2.jpeg?alt=media&token=05f90ec7-e82a-42bf-9fc7-b708856d1c43&_gl=1*eommh3*_ga*ODcxMTQ1NjA5LjE2OTg3NDEyMDY.*_ga_CW55HF8NVT*MTY5OTI0MzQ1Mi4xNi4xLjE2OTkyNDQxNzkuNTQuMC4w",
+        "product_title_ml": "സാംസങ് എസ്69FE"
+    },
+    {
+        "product_id": 106,
+        "product_title_en": "Samsung S23 Ultra",
+        "product_price": 125000,
+        "product_category": "Phone",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/s23-1.jpeg?alt=media&token=54b7e138-87a4-469f-8551-1e2ca8929251&_gl=1*10x35vd*_ga*ODcxMTQ1NjA5LjE2OTg3NDEyMDY.*_ga_CW55HF8NVT*MTY5OTI0MzQ1Mi4xNi4xLjE2OTkyNDQyMTYuMTcuMC4w",
+        "product_title_ml": "സാംസങ് എസ്623 അൾട്രാ"
+    },
+    {
+        "product_id": 107,
+        "product_title_en": "Nothing Phone(2)",
+        "product_price": 45000,
+        "product_category": "Phone",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/no-1.jpeg?alt=media&token=511c3142-0ae9-4ea5-a883-c6540fc528be&_gl=1*1l76s0o*_ga*ODcxMTQ1NjA5LjE2OTg3NDEyMDY.*_ga_CW55HF8NVT*MTY5OTI0MzQ1Mi4xNi4xLjE2OTkyNDQyNTYuNjAuMC4w",
+        "product_title_ml": "Nothing ഫോൺ(2)"
+    },
+    {
+        "product_id": 108,
+        "product_title_en": "Oneplus 11",
+        "product_price": 45000,
+        "product_category": "Phone",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/11-1.jpg?alt=media&token=1830b9b3-90bb-4dac-86ce-9b95ad44eb03&_gl=1*s0zamk*_ga*ODcxMTQ1NjA5LjE2OTg3NDEyMDY.*_ga_CW55HF8NVT*MTY5OTMzODI1Ny4yMC4xLjE2OTkzMzgzMzQuNTQuMC4w",
+        "product_title_ml": "വൺപ്ലസ് 11"
+    },
+    {
+        "product_id": 109,
+        "product_title_en": "Apple iPhone 15 pro",
+        "product_price": 135000,
+        "product_category": "Phone",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/i-1.jpg?alt=media&token=f3c3924d-3b12-4e2c-9331-ff5d49019ded&_gl=1*1iexu2h*_ga*ODcxMTQ1NjA5LjE2OTg3NDEyMDY.*_ga_CW55HF8NVT*MTY5OTMzODI1Ny4yMC4xLjE2OTkzMzgzNzcuMTEuMC4w",
+        "product_title_ml": "ആപ്പിൾ ഐഫോൺ 15 പ്രോ"
+    }
+]
