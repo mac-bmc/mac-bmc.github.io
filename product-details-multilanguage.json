@@ -1,7 +1,10 @@
 [
   {
     "product_id": 100,
-    "product_description": "16 GB RAM, 1TB HDD+512 GB SSD, AMD Ryzen 7 6300H , GTX RT 3050ti",
+    "product_description": {
+      "en" : "16 GB RAM, 1TB HDD+512 GB SSD, AMD Ryzen 7 6300H , GTX RT 3050ti",
+      "ml" : "16 ജിബി റാം, "
+    },
     "product_discount": "10%",
      "product_reviews": {
         "en": "Very Good, Price worthy",
