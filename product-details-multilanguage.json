@@ -3,7 +3,7 @@
     "product_id": 100,
     "product_description": {
       "en" : "16 GB RAM, 1TB HDD+512 GB SSD, AMD Ryzen 7 6300H , GTX RT 3050ti",
-      "ml" : "16 ജിബി റാം, "
+      "ml" : "16 ജിബി റാം, 1 ടി.ബി എച്ച്ഡിഡി + 512 ജിബി എസ്എസ്ഡി, എഎംഡി റൈസൺ 7 6300 എച്ച്,ജി ടി എക്സ് ആർ ടി 3050"
     },
     "product_discount": "10%",
      "product_reviews": {
@@ -19,7 +19,10 @@
   },
   {
     "product_id": 101,
-    "product_description": "16 GB RAM, 1TB HDD+512 GB SSD, AMD Ryzen 7 6300H , GTX RT 3050ti",
+    "product_description": {
+      "en" : "16 GB RAM, 1TB HDD+512 GB SSD, AMD Ryzen 7 6300H , GTX RT 3050ti",
+      "ml" : "16 ജിബി റാം, 1 ടി.ബി എച്ച്ഡിഡി + 512 ജിബി എസ്എസ്ഡി, എഎംഡി റൈസൺ 7 6300 എച്ച്,ജി ടി എക്സ് ആർ ടി 3050"
+    },
     "product_discount": "10%",
    "product_reviews": {
         "en": "Very Good, Price worthy",
@@ -34,7 +37,10 @@
   },
   {
     "product_id": 102,
-    "product_description": "16 GB RAM, 1TB HDD+512 GB SSD, AMD Ryzen 7 6300H , GTX RT 3050ti",
+   "product_description": {
+      "en" : "16 GB RAM, 1TB HDD+512 GB SSD, AMD Ryzen 7 6300H , GTX RT 3050ti",
+      "ml" : "16 ജിബി റാം, 1 ടി.ബി എച്ച്ഡിഡി + 512 ജിബി എസ്എസ്ഡി, എഎംഡി റൈസൺ 7 6300 എച്ച്,ജി ടി എക്സ് ആർ ടി 3050"
+    },
     "product_discount": "10%",
     "product_reviews": {
         "en": "Very Good, Price worthy",
@@ -49,7 +55,10 @@
   },
   {
     "product_id": 103,
-    "product_description": "16 GB RAM, 1TB HDD+512 GB SSD, AMD Ryzen 7 6300H , GTX RT 3050ti",
+    "product_description": {
+      "en" : "16 GB RAM, 1TB HDD+512 GB SSD, AMD Ryzen 7 6300H , GTX RT 3050ti",
+      "ml" : "16 ജിബി റാം, 1 ടി.ബി എച്ച്ഡിഡി + 512 ജിബി എസ്എസ്ഡി, എഎംഡി റൈസൺ 7 6300 എച്ച്,ജി ടി എക്സ് ആർ ടി 3050"
+    },
     "product_discount": "10%",
     "product_reviews": {
         "en": "Very Good, Price worthy",
@@ -64,7 +73,10 @@
   },
   {
     "product_id": 104,
-    "product_description": "8GB RAM,256 GB Storage, Qualcomm Snapdragon 720, LCD Screen 120Hz,Android 13",
+    "product_description": {
+      "en" : "8GB RAM,256 GB Storage, Qualcomm Snapdragon 720, LCD Screen 120Hz,Android 13",
+      "ml" : "8 ജിബി റാം,256 ജിബി സ്റ്റോറേജ്, ക്വാൽകോം സ്‌നാപ്ഡ്രാഗൺ 720, LCD സ്‌ക്രീൻ 120Hz, ആൻഡ്രോയിഡ് 13 "
+    },
     "product_discount": "10%",
     "product_reviews": {
         "en": "Very Good, Price worthy",
@@ -79,7 +91,10 @@
   },
   {
     "product_id": 105,
-    "product_description": "8GB RAM,256 GB Storage, Qualcomm Snapdragon 720, LCD Screen 120Hz,Android 14",
+    "product_description": {
+      "en" : "8GB RAM,256 GB Storage, Qualcomm Snapdragon 720, LCD Screen 120Hz,Android 14",
+      "ml" : "8 ജിബി റാം,256 ജിബി സ്റ്റോറേജ്, ക്വാൽകോം സ്‌നാപ്ഡ്രാഗൺ 720, LCD സ്‌ക്രീൻ 120Hz, ആൻഡ്രോയിഡ് 14 "
+    },
     "product_discount": "10%",
     "product_reviews": {
         "en": "Very Good, Price worthy",
@@ -93,7 +108,11 @@
   },
   {
     "product_id": 106,
-    "product_description": "16 GB RAM, 256GB Storage,Qualcom Snapdragon 8 Gen 2 ,Amoled Screen 120Hz,Android 13,One UI5,SPen Compatable",
+    "product_description": ,
+    "product_description": {
+      "en" : "16 GB RAM, 256GB Storage,Qualcom Snapdragon 8 ജന 2 ,Amoled Screen 120Hz,Android 13,One UI5,SPen Compatable",
+      "ml" : "16 ജിബി റാം,256 ജിബി സ്റ്റോറേജ്, ക്വാൽകോം സ്‌നാപ്ഡ്രാഗൺ 8, അമോലെഡ് സ്‌ക്രീൻ 120Hz, ആൻഡ്രോയിഡ് 13, ഒരു UI5, SPen അനുയോജ്യം "
+    },
     "product_discount": "10%",
    "product_reviews": {
         "en": "Very Good, Price worthy",
@@ -108,8 +127,10 @@
   },
   {
     "product_id": 107,
-    "product_description": "16 GB RAM, 256GB Storage,Qualcom Snapdragon 8 Gen 2 ,Amoled Screen 120Hz,Android 13,One UI5",
-    "product_discount": "10%",
+    "product_description": {
+      "en" : "16 GB RAM, 256GB Storage,Qualcom Snapdragon 8 ജന 2 ,Amoled Screen 120Hz,Android 13,One UI5,SPen Compatable",
+      "ml" : "16 ജിബി റാം,256 ജിബി സ്റ്റോറേജ്, ക്വാൽകോം സ്‌നാപ്ഡ്രാഗൺ 8, അമോലെഡ് സ്‌ക്രീൻ 120Hz, ആൻഡ്രോയിഡ് 13, 1 UI5, SPen അനുയോജ്യം "
+    },
     "product_reviews": {
         "en": "Very Good, Price worthy",
         "ml": "വളരെ നല്ലത്, വില അർഹിക്കുന്നു"
@@ -123,6 +144,10 @@
   {
     "product_id": 108,
     "product_description": "16 GB RAM, 256GB Storage,Qualcom Snapdragon 8 Gen 2 ,Amoled Screen 120Hz,Android 13,Oxygen OS",
+    "product_description": {
+      "en" : "16 GB RAM, 256GB Storage,Qualcom Snapdragon 8 Gen 2 ,Amoled Screen 120Hz,Android 13,Oxygen OS",
+      "ml" : "16 ജിബി റാം,256 ജിബി സ്റ്റോറേജ്, ക്വാൽകോം സ്‌നാപ്ഡ്രാഗൺ 8, അമോലെഡ് സ്‌ക്രീൻ 120Hz, ആൻഡ്രോയിഡ് 13,ഓക്സിജൻ ഒഎസ്"
+    },
     "product_discount": "10%",
     "product_reviews": {
         "en": "Very Good, Price worthy",
@@ -137,7 +162,10 @@
   },
   {
     "product_id": 109,
-    "product_description": "16 GB RAM, 256GB Storage,M2 pro chip,Amoled Screen 120Hz,iOS",
+    "product_description": {
+      "en" : "16 GB RAM, 256GB Storage,M2 പ്രോ ചിപ്പ്, അമോലെഡ് സ്‌ക്രീൻ 120Hz, ഐഒഎസ്",
+      "ml" : "16 ജിബി റാം,256 ജിബി സ്റ്റോറേജ്, "
+    },
     "product_discount": "10%",
    "product_reviews": {
         "en": "Very Good, Price worthy",
