@@ -1,0 +1,27 @@
+[
+  {
+    "product_id": 100,
+    "product_discount_percent": 20,
+    "product_category": "Laptop"
+  },
+  {
+    "product_id": 102,
+    "product_discount_percent": 35,
+    "product_category": "Laptop"
+  },
+  {
+    "product_id": 105,
+    "product_discount_percent": 30,
+    "product_category": "Tablet"
+  },
+  {
+    "product_id": 106,
+    "product_discount_percent": 36,
+    "product_category": "Phone"
+  },
+  {
+    "product_id": 109,
+    "product_discount_percent": 15,
+    "product_category": "Phone"
+  }
+]
