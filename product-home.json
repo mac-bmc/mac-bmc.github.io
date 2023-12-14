@@ -98,25 +98,5 @@
     "product_price": 135000,
     "product_category": "Phone",
     "product_image": "https://firebasestorage.googleapis.com/v0/b/imageapi-ecom.appspot.com/o/i-1-removebg-preview.png?alt=media&token=f0857e4c-d67b-4c74-a61a-d0670c627784"
-  },
-  {
-    "product_id": 110,
-    "product_title": {
-        "en": "Oneplus 11",
-        "ml": "വൺപ്ലസ് 11"
-    },
-    "product_price": 45000,
-    "product_category": "Phone",
-    "product_image": "https://firebasestorage.googleapis.com/v0/b/imageapi-ecom.appspot.com/o/11-1-removebg-preview.png?alt=media&token=ff47e7fa-49a9-4b1b-9f6a-7fb790a86b4e"
-  },
-  {
-    "product_id": 111,
-    "product_title": {
-        "en": "Apple iPhone 15",
-        "ml": "ആപ്പിൾ ഐഫോൺ 15 പ്രോ"
-    },
-    "product_price": 135000,
-    "product_category": "Phone",
-    "product_image": "https://firebasestorage.googleapis.com/v0/b/imageapi-ecom.appspot.com/o/i-1-removebg-preview.png?alt=media&token=f0857e4c-d67b-4c74-a61a-d0670c627784"
   }
 ]
