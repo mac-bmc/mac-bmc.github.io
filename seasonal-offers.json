@@ -1,13 +1,7 @@
 [
   {
-    "offer_name" :"Christmas Offers",
-    "offer_image" :"https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/a15-1.jpeg?alt=media&token=40772d29-a837-43c2-9ab3-6d3183cd5663&_gl=1*1x5bqoj*_ga*ODcxMTQ1NjA5LjE2OTg3NDEyMDY.*_ga_CW55HF8NVT*MTY5OTI0NjA4My4xNy4wLjE2OTkyNDYwODMuNjAuMC4w",
-    "offer_text" :"Ho Ho Ho"
-  },
-  {
     "offer_name" :"End of Year Sale",
     "offer_image" :"https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/a15-1.jpeg?alt=media&token=40772d29-a837-43c2-9ab3-6d3183cd5663&_gl=1*1x5bqoj*_ga*ODcxMTQ1NjA5LjE2OTg3NDEyMDY.*_ga_CW55HF8NVT*MTY5OTI0NjA4My4xNy4wLjE2OTkyNDYwODMuNjAuMC4w",
     "offer_text" :"Grab before year ends"
   }
-  
 ]
