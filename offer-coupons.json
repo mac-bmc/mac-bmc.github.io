@@ -6,7 +6,7 @@
   "coupon_discount": "GET20",
   "coupon_discount_description": "Get 20% off on this product",
   "coupon_vouchers": "CASH20",
-  "coupon_vouchers_description": "Get 20% off voucher"
+  "coupon_vouchers_description": "Get 20% off delivery charge"
  },
  {
   "product_id": 102,
@@ -15,7 +15,7 @@
   "coupon_discount": "GET35",
   "coupon_discount_description": "Get 35% off on this product",
   "coupon_vouchers": "CASH35",
-  "coupon_vouchers_description": "Get 35% off voucher"
+  "coupon_vouchers_description": "Get 35% off delivery charge"
  },
  {
   "product_id": 105,
@@ -24,7 +24,7 @@
   "coupon_discount": "GET30",
   "coupon_discount_description": "Get 30% off on this product",
   "coupon_vouchers": "CASH30",
-  "coupon_vouchers_description": "Get 30% off voucher"
+  "coupon_vouchers_description": "Get 30% off delivery charge"
  },
  {
   "product_id": 106,
@@ -33,7 +33,7 @@
   "coupon_discount": "GET36",
   "coupon_discount_description": "Get 36% off on this product",
   "coupon_vouchers": "CASH36",
-  "coupon_vouchers_description": "Get 36% off voucher"
+  "coupon_vouchers_description": "Get 36% off delivery charge"
  },
  {
   "product_id": 109,
@@ -42,6 +42,6 @@
   "coupon_discount": "GET15",
   "coupon_discount_description": "Get 15% off on this product",
   "coupon_vouchers": "CASH15",
-  "coupon_vouchers_description": "Get 15% off voucher"
+  "coupon_vouchers_description": "Get 15% off delivery charge"
  }
 ]
