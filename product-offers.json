@@ -1,27 +1,47 @@
 [
-  {
-    "product_id": 100,
-    "product_discount_percent": 20
-    
-  },
-  {
-    "product_id": 102,
-    "product_discount_percent": 35
-    
-  },
-  {
-    "product_id": 105,
-    "product_discount_percent": 30
-    
-  },
-  {
-    "product_id": 106,
-    "product_discount_percent": 36
-    
-  },
-  {
-    "product_id": 109,
-    "product_discount_percent": 15
-  
-  }
+ {
+  "product_id": 100,
+  "product_discount_percent": 20,
+  "product_offer_description": "End of year sale",
+  "coupon_discount": "GET20",
+  "coupon_discount_description": "Get 20% off on this product",
+  "coupon_vouchers": "CASH20",
+  "coupon_vouchers_description": "Get 20% off voucher"
+ },
+ {
+  "product_id": 102,
+  "product_discount_percent": 35,
+  "product_offer_description": "End of year sale",
+  "coupon_discount": "GET35",
+  "coupon_discount_description": "Get 35% off on this product",
+  "coupon_vouchers": "CASH35",
+  "coupon_vouchers_description": "Get 35% off voucher"
+ },
+ {
+  "product_id": 105,
+  "product_discount_percent": 30,
+  "product_offer_description": "End of year sale",
+  "coupon_discount": "GET30",
+  "coupon_discount_description": "Get 30% off on this product",
+  "coupon_vouchers": "CASH30",
+  "coupon_vouchers_description": "Get 30% off voucher"
+ },
+ {
+  "product_id": 106,
+  "product_discount_percent": 36,
+  "product_offer_description": "End of year sale",
+  "coupon_discount": "GET36",
+  "coupon_discount_description": "Get 36% off on this product",
+  "coupon_vouchers": "CASH36",
+  "coupon_vouchers_description": "Get 36% off voucher"
+ },
+ {
+  "product_id": 109,
+  "product_discount_percent": 15,
+  "product_offer_description": "End of year sale",
+  "coupon_discount": "GET15",
+  "coupon_discount_description": "Get 15% off on this product",
+  "coupon_vouchers": "CASH15",
+  "coupon_vouchers_description": "Get 15% off voucher"
+ }
 ]
