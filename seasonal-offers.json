@@ -1,13 +1,13 @@
 [
-  {
-  "offer_name" :"Christmas Sale",
+{
+  "offer_name" :"New Year Sale",
   "offer_image" :"https://firebasestorage.googleapis.com/v0/b/imageapi-ecom.appspot.com/o/year-end-sale-poster-design-600w-1566177001.jpg?alt=media&token=205b3622-b67f-46d9-b5b9-7f699216cda3",
-  "offer_text" :"Ho Ho Ho..Dont wait for Santa to give gifts. Shop Now"
+  "offer_text" :"New Year....New Beginings....New Products"
 },
   {
-  "offer_name" :"End of Year Sale",
-  "offer_image" :"https://firebasestorage.googleapis.com/v0/b/imageapi-ecom.appspot.com/o/year-end-sale-poster-design-600w-1566177001.jpg?alt=media&token=205b3622-b67f-46d9-b5b9-7f699216cda3",
-  "offer_text" :"Grab before year ends"
+  "offer_name" :"Republic Day Sale",
+  "offer_image" :"https://firebasestorage.googleapis.com/v0/b/imageapi-ecom.appspot.com/o/download.jpg?alt=media&token=cff396c8-db66-4001-98eb-0ed8049f597e",
+  "offer_text" :"Gift yourselves this republic day"
 }
 ]
 
