@@ -1,0 +1,21 @@
+{
+  "blogposts":[
+    {
+      "id":1,
+      "title":"BlogPosts#1",
+      "content":"Content of blogpost#1"
+    },
+    {
+      "id":2,
+      "title":"BlogPosts#2",
+      "content":"Content of blogpost#2"
+    },
+    {
+      "id":3,
+      "title":"BlogPosts#3",
+      "content":"Content of blogpost#3"
+    },
+    
+    
+  ]
+}
