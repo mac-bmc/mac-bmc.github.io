@@ -1,5 +1,4 @@
-{
-  "blogposts":[
+"blogposts":[
     {
       "id":1,
       "title":"BlogPosts#1",
@@ -18,4 +17,3 @@
     
     
   ]
-}
