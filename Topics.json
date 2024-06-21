@@ -1,24 +1,24 @@
 [
   {
-    "topic":"Covid19"
+    "topic":"business"
   },
   {
-    "topic":"India Elections"
+    "topic":"entertainment"
   },
   {
-    "topic":"Stock Market"
+    "topic":"general"
   },
   {
-    "topic":"Weather"
+    "topic":"health"
   },
   {
-    "topic":"Technology"
+    "topic":"technology"
   },
   {
-    "topic":"Corruption"
+    "topic":"science"
   },
   {
-    "topic":"Covid19"
+    "topic":"sports"
   }
 
 ]
