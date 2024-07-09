@@ -1,17 +1,17 @@
 [
   {
-    "title":"OnBoarding Page 1",
-    "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-     "imageURl":"https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/onboarding1.png?alt=media&token=0f8baab1-4696-45ad-a102-4e19d85d7820"
+    "title":"Welcome to Flash Feed",
+    "description":"Flash Fees provides latest and relevant news for you",
+     "imageURl":"https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/ic_logo.png?alt=media&token=8d7630a0-e8a4-49d7-8147-8e50bf918d77"
   },
   {
-    "title":"OnBoarding Page 2",
-    "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-     "imageURl":"https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/onboarding1.png?alt=media&token=0f8baab1-4696-45ad-a102-4e19d85d7820"
+    "title":"Welcome to Flash Feed",
+    "description":"Browse through different news by country,category and more",
+     "imageURl":"https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/ic_logo.png?alt=media&token=8d7630a0-e8a4-49d7-8147-8e50bf918d77"
   },
   {
-    "title":"OnBoarding Page 3",
-    "description":"Lorem Ipsum is simply dummy text of the prin and typesetting industry.",
-     "imageURl":"https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/onboarding1.png?alt=media&token=0f8baab1-4696-45ad-a102-4e19d85d7820"
+    "title":"Disclaimer",
+    "description":"This android application has been developed for educational purpose. The App may or maynot contain genuine information. Incase of any fraudelent information from the APIs , owner is not responsible",
+     "imageURl":"https://firebasestorage.googleapis.com/v0/b/imagestoreapi-735b2.appspot.com/o/ic_logo.png?alt=media&token=8d7630a0-e8a4-49d7-8147-8e50bf918d77"
   }
 ]
